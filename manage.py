@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+"""Performed Cross Check and Validated Syntax of manage.py script"""
 import os
 import sys
 
